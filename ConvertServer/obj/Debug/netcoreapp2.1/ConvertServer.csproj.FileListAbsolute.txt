@@ -1,0 +1,14 @@
+D:\Mandatory\ConvertComponent\ConvertComponent\ConvertServer\bin\Debug\netcoreapp2.1\ConvertServer.deps.json
+D:\Mandatory\ConvertComponent\ConvertComponent\ConvertServer\bin\Debug\netcoreapp2.1\ConvertServer.runtimeconfig.json
+D:\Mandatory\ConvertComponent\ConvertComponent\ConvertServer\bin\Debug\netcoreapp2.1\ConvertServer.runtimeconfig.dev.json
+D:\Mandatory\ConvertComponent\ConvertComponent\ConvertServer\bin\Debug\netcoreapp2.1\ConvertServer.dll
+D:\Mandatory\ConvertComponent\ConvertComponent\ConvertServer\bin\Debug\netcoreapp2.1\ConvertServer.pdb
+D:\Mandatory\ConvertComponent\ConvertComponent\ConvertServer\bin\Debug\netcoreapp2.1\ConvertComponent.dll
+D:\Mandatory\ConvertComponent\ConvertComponent\ConvertServer\bin\Debug\netcoreapp2.1\ConvertComponent.pdb
+D:\Mandatory\ConvertComponent\ConvertComponent\ConvertServer\obj\Debug\netcoreapp2.1\ConvertServer.csprojAssemblyReference.cache
+D:\Mandatory\ConvertComponent\ConvertComponent\ConvertServer\obj\Debug\netcoreapp2.1\ConvertServer.csproj.CoreCompileInputs.cache
+D:\Mandatory\ConvertComponent\ConvertComponent\ConvertServer\obj\Debug\netcoreapp2.1\ConvertServer.AssemblyInfoInputs.cache
+D:\Mandatory\ConvertComponent\ConvertComponent\ConvertServer\obj\Debug\netcoreapp2.1\ConvertServer.AssemblyInfo.cs
+D:\Mandatory\ConvertComponent\ConvertComponent\ConvertServer\obj\Debug\netcoreapp2.1\ConvertServer.csproj.CopyComplete
+D:\Mandatory\ConvertComponent\ConvertComponent\ConvertServer\obj\Debug\netcoreapp2.1\ConvertServer.dll
+D:\Mandatory\ConvertComponent\ConvertComponent\ConvertServer\obj\Debug\netcoreapp2.1\ConvertServer.pdb

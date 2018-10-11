@@ -1,0 +1,11 @@
+D:\Mandatory\ConvertComponent\ConvertComponent\ConvertClient\bin\Debug\netcoreapp2.1\ConvertClient.deps.json
+D:\Mandatory\ConvertComponent\ConvertComponent\ConvertClient\bin\Debug\netcoreapp2.1\ConvertClient.runtimeconfig.json
+D:\Mandatory\ConvertComponent\ConvertComponent\ConvertClient\bin\Debug\netcoreapp2.1\ConvertClient.runtimeconfig.dev.json
+D:\Mandatory\ConvertComponent\ConvertComponent\ConvertClient\bin\Debug\netcoreapp2.1\ConvertClient.dll
+D:\Mandatory\ConvertComponent\ConvertComponent\ConvertClient\bin\Debug\netcoreapp2.1\ConvertClient.pdb
+D:\Mandatory\ConvertComponent\ConvertComponent\ConvertClient\obj\Debug\netcoreapp2.1\ConvertClient.csprojAssemblyReference.cache
+D:\Mandatory\ConvertComponent\ConvertComponent\ConvertClient\obj\Debug\netcoreapp2.1\ConvertClient.csproj.CoreCompileInputs.cache
+D:\Mandatory\ConvertComponent\ConvertComponent\ConvertClient\obj\Debug\netcoreapp2.1\ConvertClient.AssemblyInfoInputs.cache
+D:\Mandatory\ConvertComponent\ConvertComponent\ConvertClient\obj\Debug\netcoreapp2.1\ConvertClient.AssemblyInfo.cs
+D:\Mandatory\ConvertComponent\ConvertComponent\ConvertClient\obj\Debug\netcoreapp2.1\ConvertClient.dll
+D:\Mandatory\ConvertComponent\ConvertComponent\ConvertClient\obj\Debug\netcoreapp2.1\ConvertClient.pdb

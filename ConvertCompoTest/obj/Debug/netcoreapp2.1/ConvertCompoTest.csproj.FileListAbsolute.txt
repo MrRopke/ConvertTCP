@@ -1,0 +1,17 @@
+D:\Mandatory\ConvertComponent\ConvertComponent\ConvertCompoTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Mandatory\ConvertComponent\ConvertComponent\ConvertCompoTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Mandatory\ConvertComponent\ConvertComponent\ConvertCompoTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Mandatory\ConvertComponent\ConvertComponent\ConvertCompoTest\bin\Debug\netcoreapp2.1\ConvertCompoTest.deps.json
+D:\Mandatory\ConvertComponent\ConvertComponent\ConvertCompoTest\bin\Debug\netcoreapp2.1\ConvertCompoTest.runtimeconfig.json
+D:\Mandatory\ConvertComponent\ConvertComponent\ConvertCompoTest\bin\Debug\netcoreapp2.1\ConvertCompoTest.runtimeconfig.dev.json
+D:\Mandatory\ConvertComponent\ConvertComponent\ConvertCompoTest\bin\Debug\netcoreapp2.1\ConvertCompoTest.dll
+D:\Mandatory\ConvertComponent\ConvertComponent\ConvertCompoTest\bin\Debug\netcoreapp2.1\ConvertCompoTest.pdb
+D:\Mandatory\ConvertComponent\ConvertComponent\ConvertCompoTest\bin\Debug\netcoreapp2.1\ConvertComponent.dll
+D:\Mandatory\ConvertComponent\ConvertComponent\ConvertCompoTest\bin\Debug\netcoreapp2.1\ConvertComponent.pdb
+D:\Mandatory\ConvertComponent\ConvertComponent\ConvertCompoTest\obj\Debug\netcoreapp2.1\ConvertCompoTest.csprojAssemblyReference.cache
+D:\Mandatory\ConvertComponent\ConvertComponent\ConvertCompoTest\obj\Debug\netcoreapp2.1\ConvertCompoTest.csproj.CoreCompileInputs.cache
+D:\Mandatory\ConvertComponent\ConvertComponent\ConvertCompoTest\obj\Debug\netcoreapp2.1\ConvertCompoTest.AssemblyInfoInputs.cache
+D:\Mandatory\ConvertComponent\ConvertComponent\ConvertCompoTest\obj\Debug\netcoreapp2.1\ConvertCompoTest.AssemblyInfo.cs
+D:\Mandatory\ConvertComponent\ConvertComponent\ConvertCompoTest\obj\Debug\netcoreapp2.1\ConvertCompoTest.csproj.CopyComplete
+D:\Mandatory\ConvertComponent\ConvertComponent\ConvertCompoTest\obj\Debug\netcoreapp2.1\ConvertCompoTest.dll
+D:\Mandatory\ConvertComponent\ConvertComponent\ConvertCompoTest\obj\Debug\netcoreapp2.1\ConvertCompoTest.pdb

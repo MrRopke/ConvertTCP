@@ -1,0 +1,9 @@
+D:\Mandatory\ConvertComponent\ConvertComponent\ConvertComponent\bin\Debug\netcoreapp2.1\ConvertComponent.deps.json
+D:\Mandatory\ConvertComponent\ConvertComponent\ConvertComponent\bin\Debug\netcoreapp2.1\ConvertComponent.dll
+D:\Mandatory\ConvertComponent\ConvertComponent\ConvertComponent\bin\Debug\netcoreapp2.1\ConvertComponent.pdb
+D:\Mandatory\ConvertComponent\ConvertComponent\ConvertComponent\obj\Debug\netcoreapp2.1\ConvertComponent.csproj.CoreCompileInputs.cache
+D:\Mandatory\ConvertComponent\ConvertComponent\ConvertComponent\obj\Debug\netcoreapp2.1\ConvertComponent.AssemblyInfoInputs.cache
+D:\Mandatory\ConvertComponent\ConvertComponent\ConvertComponent\obj\Debug\netcoreapp2.1\ConvertComponent.AssemblyInfo.cs
+D:\Mandatory\ConvertComponent\ConvertComponent\ConvertComponent\obj\Debug\netcoreapp2.1\ConvertComponent.dll
+D:\Mandatory\ConvertComponent\ConvertComponent\ConvertComponent\obj\Debug\netcoreapp2.1\ConvertComponent.pdb
+D:\Mandatory\ConvertComponent\ConvertComponent\ConvertComponent\obj\Debug\netcoreapp2.1\ConvertComponent.csprojAssemblyReference.cache
